@@ -90,5 +90,8 @@
   conda update anaconda
   ```
 
-  
+
+### 4. Keras III all you need to know
+
+https://www.kdnuggets.com/2023/07/keras-30-everything-need-know.html
 
